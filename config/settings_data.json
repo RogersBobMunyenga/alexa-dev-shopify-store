@@ -52,10 +52,17 @@
           "pinterest": "",
           "twitter": ""
         }
+      },
+      "16515848649543eb2f": {
+        "type": "homepage-carousel",
+        "settings": {
+          "slide-1": "shopify:\/\/shop_images\/slider-1.jpg",
+          "slide-2": "shopify:\/\/shop_images\/slider-2.jpg"
+        }
       }
     },
     "content_for_index": [
-
+      "16515848649543eb2f"
     ]
   }
 }
