@@ -47,6 +47,42 @@
       },
       "footer": {
         "type": "footer",
+        "blocks": {
+          "8919cb94-0254-4cf8-bf46-194cc34d67a7": {
+            "type": "text",
+            "settings": {
+              "footer_text": "CONTACT",
+              "footer_link": "shopify:\/\/pages\/contact"
+            }
+          },
+          "51612290-fc24-4ce8-b89c-5c6fed12bb6b": {
+            "type": "text",
+            "settings": {
+              "footer_text": "",
+              "footer_link": ""
+            }
+          },
+          "b9ad58dd-b18b-4d76-b25c-d375929ca0d6": {
+            "type": "text",
+            "settings": {
+              "footer_text": "",
+              "footer_link": ""
+            }
+          },
+          "f16ed29c-521c-4f9f-90fe-be2722c1279a": {
+            "type": "text",
+            "settings": {
+              "footer_text": "",
+              "footer_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "8919cb94-0254-4cf8-bf46-194cc34d67a7",
+          "51612290-fc24-4ce8-b89c-5c6fed12bb6b",
+          "b9ad58dd-b18b-4d76-b25c-d375929ca0d6",
+          "f16ed29c-521c-4f9f-90fe-be2722c1279a"
+        ],
         "settings": {
           "facebook": "https:\/\/facebook.com",
           "instagram": "https:\/\/instagram.com",
