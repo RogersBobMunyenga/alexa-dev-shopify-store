@@ -58,8 +58,8 @@
           "51612290-fc24-4ce8-b89c-5c6fed12bb6b": {
             "type": "text",
             "settings": {
-              "footer_text": "",
-              "footer_link": ""
+              "footer_text": "TERMS OF SERVICE",
+              "footer_link": "shopify:\/\/pages\/terms-of-service"
             }
           },
           "b9ad58dd-b18b-4d76-b25c-d375929ca0d6": {
