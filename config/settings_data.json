@@ -1,2 +1,58 @@
 {
+  "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "main_linklist": "main-menu"
+        }
+      },
+      "homepage-carousel": {
+        "type": "homepage-carousel",
+        "settings": {
+          "slide-1": "shopify:\/\/shop_images\/slider-1.jpg",
+          "slide-2": "shopify:\/\/shop_images\/slider-2.jpg"
+        }
+      },
+      "product-category-banners": {
+        "type": "product-category-banners",
+        "settings": {
+          "category_top_left_header": "Dresses",
+          "category_top_left_text": "Sale!",
+          "category_top_left_url": "",
+          "category_bottom_left_header": "Jeans",
+          "category_bottom_left_text": "Sale!",
+          "category_bottom_left_url": "",
+          "category_right_header": "Dresses",
+          "category_right_text": "Sale!",
+          "category_right_url": ""
+        }
+      },
+      "homepage-products": {
+        "type": "homepage-products",
+        "settings": {
+          "title": "Trending Products",
+          "collection": "",
+          "product_limit": 6
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "facebook": "",
+          "instagram": "",
+          "pinterest": "",
+          "twitter": ""
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
 }
