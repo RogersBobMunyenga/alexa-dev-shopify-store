@@ -72,8 +72,8 @@
           "f16ed29c-521c-4f9f-90fe-be2722c1279a": {
             "type": "text",
             "settings": {
-              "footer_text": "",
-              "footer_link": ""
+              "footer_text": "SHIPPING POLICY",
+              "footer_link": "shopify:\/\/pages\/shipping-policy"
             }
           }
         },
