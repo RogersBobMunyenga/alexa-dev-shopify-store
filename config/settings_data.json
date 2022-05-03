@@ -47,10 +47,10 @@
       "footer": {
         "type": "footer",
         "settings": {
-          "facebook": "",
-          "instagram": "",
-          "pinterest": "",
-          "twitter": ""
+          "facebook": "https:\/\/facebook.com",
+          "instagram": "https:\/\/instagram.com",
+          "pinterest": "https:\/\/pinterest.com",
+          "twitter": "https:\/\/twitter.com"
         }
       },
       "16515848649543eb2f": {
