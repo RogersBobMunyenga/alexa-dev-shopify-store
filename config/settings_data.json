@@ -19,12 +19,15 @@
         "settings": {
           "category_top_left_header": "Dresses",
           "category_top_left_text": "Sale!",
+          "category_top_left": "shopify:\/\/shop_images\/category-1.jpg",
           "category_top_left_url": "",
           "category_bottom_left_header": "Jeans",
           "category_bottom_left_text": "Sale!",
+          "category_bottom_left": "shopify:\/\/shop_images\/category-3.jpg",
           "category_bottom_left_url": "",
           "category_right_header": "Dresses",
           "category_right_text": "Sale!",
+          "category_right": "shopify:\/\/shop_images\/category-2.jpg",
           "category_right_url": ""
         }
       },
