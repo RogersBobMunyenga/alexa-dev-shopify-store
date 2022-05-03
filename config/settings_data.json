@@ -59,10 +59,19 @@
           "slide-1": "shopify:\/\/shop_images\/slider-1.jpg",
           "slide-2": "shopify:\/\/shop_images\/slider-2.jpg"
         }
+      },
+      "165158501437e9b05c": {
+        "type": "homepage-products",
+        "settings": {
+          "title": "Trending Products",
+          "collection": "womens",
+          "product_limit": 6
+        }
       }
     },
     "content_for_index": [
-      "16515848649543eb2f"
+      "16515848649543eb2f",
+      "165158501437e9b05c"
     ]
   }
 }
