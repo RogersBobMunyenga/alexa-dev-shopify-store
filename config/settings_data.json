@@ -84,12 +84,18 @@
           "category_right": "shopify:\/\/shop_images\/category-2.jpg",
           "category_right_url": ""
         }
+      },
+      "165158548059e164cc": {
+        "type": "newsletter",
+        "settings": {
+        }
       }
     },
     "content_for_index": [
       "16515848649543eb2f",
       "1651585225117ae618",
-      "165158501437e9b05c"
+      "165158501437e9b05c",
+      "165158548059e164cc"
     ]
   }
 }
