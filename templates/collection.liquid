@@ -1,3 +1,12 @@
-{% include 'page-header', title: {{collection.title}} %}
+{% include 'page-header', title: collection.title %}
 
-{% section 'collection-template' %}
+{% section 'collection-template' %}{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% include 'page-header', title: {{collection.title}} %}"
+  to: "{% include 'page-header', title: collection.title %}"
+  position: 0..52
+{%- endcomment -%}
